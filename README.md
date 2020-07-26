@@ -13,7 +13,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'im.haru:lavaplayer:1.0'
+    implementation 'im.haru:lavaplayer:1.0.0'
 }
 ```
 Maven
@@ -29,7 +29,7 @@ Maven
     <dependency>
         <groupId>im.haru</groupId>
         <artifactId>lavaplayer</artifactId>
-        <version>1.0</version>
+        <version>1.0.0</version>
     </dependency>
 </dependencies>
 ```
